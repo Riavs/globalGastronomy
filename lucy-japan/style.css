@@ -14,12 +14,12 @@ body {
       font-size: 4vw; /* Adjust as needed */
   }
   .bg-img {
-    background-image: url('images/Flag_of_Japan.png') !important;
+    background-image: url('images/flag.png') !important;
   }
 }
 
 .bg-img {
-  background-image: url('images/Flag_of_Japan.png');
+  background-image: url('images/flag.png');
     background-position: center;
     background-size:cover;
     background-repeat:no-repeat;
