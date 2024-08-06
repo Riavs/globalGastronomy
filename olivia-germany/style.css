@@ -15,6 +15,14 @@ body {
   }
 }
 
+.bg-img {
+  background-image: url('images/flag.png');
+    background-position: center;
+    background-size:cover;
+    background-repeat:no-repeat;
+    backdrop-filter: blur(10px);
+}
+
 /*-------------fonts-----------------*/
 
 .playfair-display {
