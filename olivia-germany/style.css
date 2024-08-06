@@ -13,6 +13,9 @@ body {
   p.lead {
       font-size: 4vw; /* Adjust as needed */
   }
+  .bg-img {
+    background-image: url('images/flag.png') !important;
+  }
 }
 
 .bg-img {
